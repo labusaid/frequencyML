@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# frequencyML
+dataset/2018.01/LICENSE.TXT
+dataset/2018.01/GOLD_XYZ_OSC.0001_1024.hdf5
