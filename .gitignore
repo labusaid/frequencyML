@@ -131,3 +131,4 @@ dmypy.json
 # frequencyML
 dataset/2018.01/LICENSE.TXT
 dataset/2018.01/GOLD_XYZ_OSC.0001_1024.hdf5
+dataset/2018.01/DeepSig_XYZ_OSC.0001_1024_Shuffled.hdf5
