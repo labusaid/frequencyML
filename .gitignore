@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 # frequencyML
-dataset/2018.01/LICENSE.TXT
-dataset/2018.01/GOLD_XYZ_OSC.0001_1024.hdf5
+dataset/LICENSE.TXT
+dataset/GOLD_XYZ_OSC.0001_1024.hdf5
+dataset/DeepSig_XYZ_OSC.0001_1024_Shuffled.hdf5
