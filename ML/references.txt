@@ -1,0 +1,14 @@
+Knowledge Repo
+Research Papers used:
+1. A RF Fingerprint Recognition Method Based on Deeply Convolutional Neural Network | IEEE Conference Publication | IEEE Xplore
+2. Radio Frequency Fingerprint Recognition Method Based on Generative Adversarial Net | IEEE Conference Publication | IEEE Xplore
+3. Over-the-Air Deep Learning Based Radio Signal Classification | IEEE Journals & Magazine | IEEE Xplore
+4. IEEE Xplore Full-Text PDF: (Policy Based Synthesis: Data Generation and Augmentation Methods For RF Machine Learning)
+5. https://ece.northeastern.edu/fac-ece/ioannidis/static/pdf/2020/J_Jian_RFDeepLearning_IoT_2020.pdf
+
+
+Resources:
+1. DeepSig website: https://www.deepsig.ai/datasets
+2. Tensorflow Tutorials: https://www.tensorflow.org/tutorials
+3. AI and Machine Learning for Coders By Laurence Moroney
+4. Machine Learning Using TensorFlow Cookbook By Alexia Audevart, Konrad Banachewicz, Luca Massaron
